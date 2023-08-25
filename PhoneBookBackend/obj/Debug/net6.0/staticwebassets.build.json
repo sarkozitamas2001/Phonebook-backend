@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ogsGg9fMzGo5nwmdPnZREJqo8TZSBeRU2WXp5zk/RJY=",
+  "Source": "PhoneBookBackend",
+  "BasePath": "_content/PhoneBookBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
